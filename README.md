@@ -36,3 +36,5 @@ Russian (native), Belarusian, English(B1)
 - Reading: Continuous learning through tech articles and books
 - Writing: Crafting clear and concise technical documents and guides
 
+## Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexHunter15&theme=dark)](https://git.io/streak-stats)
