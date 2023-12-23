@@ -2,6 +2,7 @@
 - **Email:** leshakhadyka15x@gmail.com
 - **Date of Birth:** 29.03.2005
 
+uses: Platane/snk/svg-only@v3
 ## Education
 - **2022:** Entered the BSU, FAMCS
 
