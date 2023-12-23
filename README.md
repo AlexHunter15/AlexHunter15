@@ -6,7 +6,7 @@
 - **2022:** Entered the BSU, FAMCS
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/AlexHunter15ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexHunter15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
