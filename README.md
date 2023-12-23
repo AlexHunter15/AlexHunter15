@@ -8,6 +8,10 @@
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/AlexHunter15ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+
+
 ## IT Skills
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
 - Java: Platform-independent applications
