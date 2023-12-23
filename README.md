@@ -2,7 +2,7 @@
 - **Email:** leshakhadyka15x@gmail.com
 - **Date of Birth:** 29.03.2005
 
-![snake gif](github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake.svg)
 ## Education
 - **2022:** Entered the BSU, FAMCS
 
