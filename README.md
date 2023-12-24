@@ -1,7 +1,5 @@
 # Hi, I am Aliaksei Khadyka
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=2077)
-
 ![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🎓Education
 - **2022:** Entered the BSU, FAMCS
@@ -31,6 +29,8 @@ As a mathematician-programmer in five years, I aim to fuse advanced technical sk
 
 ## 📚Languages
 Russian (native), Belarusian, English(B1)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=2077)
 
 ## 🔭Hobbies and Interests
 - Web Surfing: Researching IT topics and staying updated
