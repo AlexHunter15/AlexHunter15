@@ -30,7 +30,7 @@ As a mathematician-programmer in five years, I aim to fuse advanced technical sk
 ## 📚Languages
 Russian (native), Belarusian, English(B1)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=2077)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=radical)
 
 ## 🔭Hobbies and Interests
 - Web Surfing: Researching IT topics and staying updated
