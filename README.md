@@ -1,8 +1,6 @@
 # Hi, I am Aliaksei Khadyka
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=2077)
-- **Email:** leshakhadyka15x@gmail.com
-- **Date of Birth:** 29.03.2005
 
 ![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🎓Education
