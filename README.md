@@ -1,4 +1,4 @@
-# Hi, I am Aliaksei Khadyka
+# 👋Hi, I am Aliaksei Khadyka
 
 ![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🎓Education
