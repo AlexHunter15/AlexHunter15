@@ -3,6 +3,7 @@
 ![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🎓Education
 - **2022:** Entered the BSU, FAMCS
+  
 ![](https://github.com/AlexHunter15/Bages/blob/main/a8882d1e-2228-4b0f-959f-20b868dd8df8-1.png)
 
 ## 🏆Trophies
@@ -31,6 +32,7 @@ As a mathematician-programmer in five years, I aim to fuse advanced technical sk
 
 ## 📚Languages
 Russian (native), Belarusian, English(B1)
+
 ![](https://github.com/AlexHunter15/Bages/blob/main/%D0%A5%D0%B0%D0%B4%D1%8B%D0%BA%D0%BE%D0%90%D0%90-1.png)
 ## 🔭Hobbies and Interests
 - Web Surfing: Researching IT topics and staying updated
