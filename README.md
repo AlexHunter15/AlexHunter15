@@ -4,7 +4,7 @@
 ## 🎓Education
 - **2022:** Entered the BSU, FAMCS
   
-![](https://github.com/AlexHunter15/Bages/blob/main/a8882d1e-2228-4b0f-959f-20b868dd8df8-1.png=110х100)
+![](https://github.com/AlexHunter15/Bages/blob/main/a8882d1e-2228-4b0f-959f-20b868dd8df8-1.png&width="400"height="790")
 
 ## 🏆Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexHunter15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
