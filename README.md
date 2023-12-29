@@ -24,6 +24,8 @@ I possess proficiency in various programming languages, including Java, C++, and
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Cs" alt="Cs" width="40" height="40"/>
 </div>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=radical)
@@ -54,7 +56,3 @@ Russian (native), Belarusian, English(B1)
 
 ## ⚡Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexHunter15&theme=dark)](https://git.io/streak-stats)
-
-<div id="badges">
-<img src="https://komarev.com/ghpvc/?username=AlexHunter15&style=flat-square&color=blue" alt=""/>
-</div>
