@@ -42,3 +42,7 @@ Russian (native), Belarusian, English(B1)
 
 ## ⚡Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexHunter15&theme=dark)](https://git.io/streak-stats)
+
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=AlexHunter15&style=flat-square&color=blue" alt=""/>
+</div>
