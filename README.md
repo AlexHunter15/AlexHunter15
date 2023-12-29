@@ -14,6 +14,14 @@ I possess proficiency in various programming languages, including Java, C++, and
 - Java: Platform-independent applications
 - C++: High-performance software, resource-intensive applications, and systems programming
 - C#: Windows applications and web services
+
+## Technologies and tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=radical)
 
 ## 👨‍💻Personal Skills
