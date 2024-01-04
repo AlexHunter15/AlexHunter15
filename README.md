@@ -45,7 +45,7 @@ I possess proficiency in various programming languages, including Java, C++, and
 As a mathematician-programmer in five years, I aim to fuse advanced technical skills, leadership prowess, and commitment to pushing the boundaries of mathematical and computational knowledge. I aspire to leave a lasting mark on my organization and the scientific community.
 
 ## 📚Languages
-Russian (native), Belarusian, English(B1)
+Russian (native), Belarusian, English (B1)
 
 <img src="https://github.com/AlexHunter15/Bages/blob/main/ХадыкоАА-1.png" width="247" height="350" />
 
