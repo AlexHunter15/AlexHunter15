@@ -5,6 +5,7 @@
 - **2022:** Entered the BSU, FAMCS
 
 <img src="https://github.com/AlexHunter15/Bages/blob/main/a8882d1e-2228-4b0f-959f-20b868dd8df8-1.png" width="354" height="250" />
+<img src="https://github.com/AlexHunter15/Bages/blob/main/2024-ICPC%20Belarus%20Qualification-MEDAL-1.png" width="354" height="250" />
 
 ## 🏆Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexHunter15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
