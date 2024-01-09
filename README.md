@@ -55,4 +55,4 @@ Russian (native), Belarusian, English (B1)
 - Writing: Crafting clear and concise technical documents and guides
 
 ## ⚡Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexHunter15&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexHunter15&theme=java-dark)](https://git.io/streak-stats)
