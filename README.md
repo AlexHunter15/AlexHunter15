@@ -11,9 +11,9 @@
 
 ## 💻IT Skills
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
-- Java: Platform-independent applications
-- C++: High-performance software, resource-intensive applications, and systems programming
-- C#: Windows applications and web services
+- Java (Novice) : Platform-independent applications
+- C++ (Advanced): High-performance software, resource-intensive applications, and systems programming
+- C# (Novice) : Windows applications and web services
 
 ## 🛠Technologies and tools
 <div>
