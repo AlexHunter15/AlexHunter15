@@ -8,11 +8,11 @@
 
 ### Courses:
 - **EPAM:**
-- Version Control with Git
-- IT Warm-Up (2023)
-- .NET Development (2021)
+1. Version Control with Git
+2. IT Warm-Up (2023)
+3. .NET Development (2021)
 - **Yandex:**
-- Training on algorithms (2023)
+1. Training on algorithms (2023)
 
 ## 🏆Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexHunter15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
