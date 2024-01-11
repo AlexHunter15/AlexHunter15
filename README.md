@@ -34,6 +34,7 @@ I possess proficiency in various programming languages, including Java, C++, and
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Cs" alt="Cs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHunter15&theme=radical)
