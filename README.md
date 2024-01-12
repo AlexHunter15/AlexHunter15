@@ -19,10 +19,10 @@
 
 ## 💻IT Skills
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
-- Java (Novice) : Platform-independent applications
 - C++ (Intermediate): High-performance software, resource-intensive applications, and systems programming
-- C# (Novice) : Windows applications and web services
-Main direction: Back-end
+- Java (Novice) : Platform-independent applications
+- C# (Novice) : Windows applications and web services  
+Main direction: Back-end (С++ Developer)
 
 ## 🛠Technologies and tools
 <div>
