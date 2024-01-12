@@ -18,6 +18,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexHunter15&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻IT Skills
+Main direction: Back-end (Junior С++ Developer)  
 I possess proficiency in various programming languages, including Java, C++, and C#. My skills enable me to develop a wide range of software applications and solutions. Specifically:
 - C++ (Intermediate): High-performance software, resource-intensive applications, and systems programming
   1. Unit Testing
@@ -30,7 +31,6 @@ I possess proficiency in various programming languages, including Java, C++, and
   3. JavaFX
   4. Maven
 - C# (Novice) : Windows applications and web services  
-Main direction: Back-end (Junior С++ Developer)
 
 ## 🛠Technologies and tools
 <div>
