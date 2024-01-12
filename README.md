@@ -22,7 +22,7 @@ I possess proficiency in various programming languages, including Java, C++, and
 - C++ (Intermediate): High-performance software, resource-intensive applications, and systems programming
 - Java (Novice) : Platform-independent applications
 - C# (Novice) : Windows applications and web services  
-Main direction: Back-end (С++ Developer)
+Main direction: Back-end (Junior С++ Developer)
 
 ## 🛠Technologies and tools
 <div>
